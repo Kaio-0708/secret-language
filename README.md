@@ -33,3 +33,7 @@ If the answer is correct, a success message is displayed.
 If the answer is incorrect, the correct word is revealed.
 
 
+
+Examples:
+
+
